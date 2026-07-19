@@ -1,7 +1,7 @@
 # NUMERATA — Numeral System Evaluation Framework
 
-**Project Phase:** 3 (Citation Management) / 5 (Synthesis Paper)
-**Status:** Phases 0--1 complete; Phase 3 and Phase 5 in progress
+**Project Phase:** Phases 3 & 5 complete; next: Phase 2 (Empirical Design) or Phase 4 (Paradigm Forecast)
+**Status:** Phases 0, 1, 3, 5 complete
 **Date:** 2026-07-19
 
 ## Overview
@@ -21,8 +21,8 @@ How should numeral systems be evaluated? What dimensions matter, and what trade-
 | **1** — Critical Analysis | DD-LIT-REPORT: Due Diligence \& Literature Search | Complete |
 | **1** — Critical Analysis | WP1.1.3+WP1.3: Edge Cases \& Hidden Assumptions | Complete |
 | **1** — Critical Analysis | WP1.3.2: Numeral Taxonomy | Complete |
-| **3** — Citations | Citation Audit \& BibTeX Verification | In Progress |
-| **5** — Synthesis | Phase 1 Synthesis Paper | Pending |
+| **3** — Citations | Citation Audit & BibTeX Verification | Complete |
+| **5** — Synthesis | Phase 1 Synthesis Paper | Complete |
 
 ## Prior Art
 

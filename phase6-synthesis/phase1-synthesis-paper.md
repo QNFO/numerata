@@ -157,7 +157,7 @@ No existing framework:
 3. **Makes falsifiable predictions** about which numeral system designs will perform better on specific criteria.
 4. **Provides design heuristics** for constructing novel numeral systems with specified performance profiles.
 
-NUMERATA fills this gap [established].
+NUMERATA proposes to fill this gap [my conjecture — the framework\x27s efficacy has not yet been empirically demonstrated].
 
 ---
 
