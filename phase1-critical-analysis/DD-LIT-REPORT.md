@@ -140,7 +140,7 @@ The following QNFO Silent Radix papers constitute the formal foundation for NUME
 - Formal analysis of positional systems (Silent Radix corpus)
 - Cognitive neuroscience of numerical cognition (Dehaene, Nieder, Butterworth)
 - Historical/structural typology of notations (Chrisomalis, Cajori)
-- Zero semiotics (Rotman, Kaplan, Seife)
+- Zero semiotics [@rotman1987signifying; @kaplan1999nothing; @seife2000zero]
 
 ### 5.2 What Is Missing
 

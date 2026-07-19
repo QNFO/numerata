@@ -15,7 +15,7 @@ This compendium catalogues edge cases, hidden assumptions, and stress-test scena
 
 ### 2.1 Zero
 
-**The problem:** Zero is not a "quantity" in the ordinary sense. It is a meta-sign — a signifier that signifies absence [@rotman1987signifying].
+**The problem:** Zero is not a "quantity" in the ordinary sense. It is a meta-sign — a signifier that signifies absence [@rotman1987signifying; @kaplan1999nothing; @seife2000zero].
 
 | Issue | Example | Framework Requirement |
 |-------|---------|----------------------|
