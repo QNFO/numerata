@@ -1,6 +1,6 @@
-﻿# NUMERATA — Project Plan
+# NUMERATA � Project Plan
 
-**Project:** NUMERATA — Numeral System Evaluation Framework
+**Project:** NUMERATA � Numeral System Evaluation Framework
 **Version:** 3.0
 **Date:** 2026-07-19
 **Status:** Phases 0, 1, 3, 5 complete
@@ -14,18 +14,18 @@ How should numeral systems be evaluated? What dimensions matter, and what trade-
 ## 2. Project Architecture
 
 NUMERATA/
-├── README.md
-├── PROJECT-PLAN.md
-├── refs.bib
-├── phase0-foundations/
-│   ├── WP0.1-embodied-metaphors.md
-│   └── WP0.2-distinction-vs-containment.md
-├── phase1-critical-analysis/
-│   ├── DD-LIT-REPORT.md
-│   ├── WP1.1.3-WP1.3-edge-cases-and-assumptions.md
-│   └── WP1.3.2-numeral-taxonomy.md
-└── phase6-synthesis/
-    └── phase1-synthesis-paper.md
++-- README.md
++-- PROJECT-PLAN.md
++-- refs.bib
++-- phase0-foundations/
+�   +-- WP0.1-embodied-metaphors.md
+�   +-- WP0.2-distinction-vs-containment.md
++-- phase1-critical-analysis/
+�   +-- DD-LIT-REPORT.md
+�   +-- WP1.1.3-WP1.3-edge-cases-and-assumptions.md
+�   +-- WP1.3.2-numeral-taxonomy.md
++-- phase6-synthesis/
+    +-- phase1-synthesis-paper.md
 
 ## 3. Phase Table
 
@@ -41,19 +41,19 @@ NUMERATA/
 
 ## 4. Deliverable Summary
 
-### Phase 0 — Foundations
+### Phase 0 � Foundations
 - **WP0.1**: Maps Lakoff and Nunez's four grounding metaphors onto 8 numeral system classes.
 - **WP0.2**: Spencer-Brown distinction/containment axis as complementary evaluative dimension.
 
-### Phase 1 — Critical Analysis
+### Phase 1 � Critical Analysis
 - **DD-LIT-REPORT**: 10 QNFO SR papers + 27 external papers. Gap analysis: NOVEL.
 - **WP1.1.3+WP1.3**: 12 edge cases, 6 hidden assumptions catalogued.
 - **WP1.3.2**: 9-axis structural taxonomy with 8 evaluative dimensions.
 
-### Phase 3 — Citation Audit
+### Phase 3 � Citation Audit
 - 27 BibTeX entries; 25 matched; 2 resolved (Kaplan 1999, Seife 2000 now cited).
 
-### Phase 5 — Synthesis
+### Phase 5 � Synthesis
 - 23 KB integrated synthesis paper combining all Phase 0 and Phase 1 deliverables.
 
 ## 5. Next Steps
