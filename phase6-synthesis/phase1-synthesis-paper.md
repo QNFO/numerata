@@ -3,7 +3,7 @@ title: "NUMERATA: A Multi-Axis Framework for Evaluating Numeral Systems"
 author: "QNFO Research"
 date: "2026-07-19"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: "10.5281/zenodo.21439533"
+doi: "10.5281/zenodo.21439813"
 status: "published"
 ---
 

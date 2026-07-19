@@ -1,7 +1,7 @@
 # NUMERATA — Numeral System Evaluation Framework
 
 **Project Phase:** Published (Phases 0-6 complete)
-**Status:** Published — DOI: 10.5281/zenodo.21439533
+**Status:** Published — DOI: 10.5281/zenodo.21439813
 **Date:** 2026-07-19
 
 ## Overview
