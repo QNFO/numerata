@@ -1,35 +1,61 @@
 ﻿# NUMERATA — OSF Project Structure
 
-**Project Home:** https://osf.io/hz839/
+**Project Home:** https://osf.io/pzgc8/
 **Created:** 2026-07-19
-**DOI:** 10.5281/zenodo.21439813
+**User:** Rowan Brad Quni-Gudzinas (6hyj8)
+**API:** V2 Bearer Token (Waterbutler file uploads require browser interaction)
+
+## API Test Results
+
+| Capability | Status | Method |
+|-----------|--------|--------|
+| Token Auth (V2 Bearer) | PASS | GET /v2/users/me/ → 200 |
+| Create Nodes | PASS | POST /v2/nodes/ → 201 (5 nodes) |
+| Draft Registrations | PASS | POST drafts → 201 (3 registrations) |
+| List Schemas | PASS | GET /v2/schemas/registrations/ → 200 |
+| File Upload | FAIL | Waterbutler requires cookie session |
+| Browser Upload | FAIL | YoBrowser unavailable |
 
 ## Components
 
-| Component | OSF ID | URL | Registered Report |
-|-----------|--------|-----|-------------------|
-| Experiment 1: Metaphor-Consistent Design | `vb9fa` | https://osf.io/vb9fa/ | Uploaded — pending template completion |
-| Experiment 2: Multi-Axis Validation | `uk3x2` | https://osf.io/uk3x2/ | Uploaded — pending template completion |
-| Experiment 3: Dual Zero-Glyph Pilot | `zq8c7` | https://osf.io/zq8c7/ | Uploaded — pending template completion |
-| Pre-Registration Template Hub | `x2j9n` | https://osf.io/x2j9n/ | All 3 RR documents |
+| Component | ID | URL | Registration Draft |
+|-----------|-----|-----|-------------------|
+| Project | pzgc8 | https://osf.io/pzgc8/ | — |
+| Exp 1: Metaphor | yzma4 | https://osf.io/yzma4/ | https://osf.io/6a5cb661628b3d4b8ce5919e/ |
+| Exp 2: Validation | azn7m | https://osf.io/azn7m/ | https://osf.io/6a5cb6623b81a4782ee5919d/ |
+| Exp 3: Zero-Glyph | 5wbfq | https://osf.io/5wbfq/ | https://osf.io/6a5cb66222f6d1813ee591b3/ |
+| Pre-Reg Hub | jtrh7 | https://osf.io/jtrh7/ | — |
 
-## Project Files
+## Files for Browser Upload
 
-- `phase1-synthesis-paper.pdf` — NUMERATA synthesis paper (14 pages, 83KB)
-- `phase1-synthesis-paper.md` — Markdown source (23KB)
+Upload these files to each component via drag-and-drop on osf.io:
 
-## Registration Drafts
+**Project Root (pzgc8):**
+- phase6-synthesis/phase1-synthesis-paper.pdf (83 KB)
+- phase6-synthesis/phase1-synthesis-paper.md (23 KB)
+- phase2-experimental-design/experimental-protocol.md (22 KB)
 
-All 3 registrations are drafted and ready for template completion:
-1. Exp 1: OSF Preregistration template — complete using `experiment-1-metaphor.md`
-2. Exp 2: OSF Preregistration template — complete using `experiment-2-validation.md`
-3. Exp 3: OSF Preregistration template — complete using `experiment-3-zero-glyph.md`
+**Exp 1 (yzma4):**
+- osf-registrations/experiment-1-metaphor.md (15 KB)
+- analysis/experiment-1-analysis.R (10 KB)
+
+**Exp 2 (azn7m):**
+- osf-registrations/experiment-2-validation.md (12 KB)
+- analysis/experiment-2-analysis.R (7 KB)
+
+**Exp 3 (5wbfq):**
+- osf-registrations/experiment-3-zero-glyph.md (16 KB)
+- analysis/experiment-3-analysis.R (10 KB)
+
+**Hub (jtrh7):** All 3 RRs + all 3 R scripts + materials-inventory.md
+
+## Registration Completion
+
+Navigate to each draft URL and fill the OSF Preregistration form using the corresponding Registered Report document. Submission generates a time-stamped DOI.
 
 ## Cross-References
 
-- **GitHub:** https://github.com/QNFO/numerata
-- **Zenodo:** https://doi.org/10.5281/zenodo.21439813
-- **Papers:** https://papers.qnfo.org/papers/numerata/
-- **IPFS:** https://ipfs.io/ipfs/bafkreiawg3h4xmm7iiboat3yzpqrj23vmcogs7unieflhvuco6mrdgqpfe
-- **IPNS:** https://cloudflare-ipfs.com/ipns/numerata.qnfo.org
-- **KG:** project-numerata (ACTIVE, distribution_status: published)
+- Zenodo: https://doi.org/10.5281/zenodo.21439813
+- GitHub: https://github.com/QNFO/numerata
+- Papers: https://papers.qnfo.org/papers/numerata/
+- IPFS: https://ipfs.io/ipfs/bafkreiawg3h4xmm7iiboat3yzpqrj23vmcogs7unieflhvuco6mrdgqpfe
